@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "678082595978",
+    "firebase_url": "https://etec-firebaseotavio.firebaseio.com",
+    "project_id": "etec-firebaseotavio",
+    "storage_bucket": "etec-firebaseotavio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678082595978:android:aad4567e5956e2f1",
+        "android_client_info": {
+          "package_name": "br.com.etechoracio.firebaseotavio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678082595978-7j37vo7lnv1pp3v30s101ph47dq3m90a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASGkoSxrjguQqZ-F_VDJtmcY4HIPZuN2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678082595978-7j37vo7lnv1pp3v30s101ph47dq3m90a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
